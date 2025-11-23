@@ -1,0 +1,100 @@
+
+
+Testing unet lr=0.0001, beta1=0.5
+  Epoch 1/200: G_loss=5.9617, F_loss=5.9567, Patience=0/5
+  Epoch 2/200: G_loss=4.1086, F_loss=4.0903, Patience=0/5
+  Epoch 3/200: G_loss=3.5780, F_loss=3.5670, Patience=0/5
+  Epoch 4/200: G_loss=3.3322, F_loss=3.3250, Patience=0/5
+  Epoch 5/200: G_loss=3.2348, F_loss=3.2528, Patience=0/5
+  Epoch 6/200: G_loss=3.0082, F_loss=3.0182, Patience=0/5
+  Epoch 7/200: G_loss=2.8562, F_loss=2.8863, Patience=0/5
+  Epoch 8/200: G_loss=2.8377, F_loss=2.9251, Patience=1/5
+  Epoch 9/200: G_loss=2.8102, F_loss=2.9040, Patience=0/5
+  Epoch 10/200: G_loss=2.7166, F_loss=2.8023, Patience=0/5
+  Epoch 11/200: G_loss=2.6148, F_loss=2.7084, Patience=0/5
+  Epoch 12/200: G_loss=2.5564, F_loss=2.6449, Patience=0/5
+  Epoch 13/200: G_loss=2.5904, F_loss=2.7014, Patience=1/5
+  Epoch 14/200: G_loss=2.5329, F_loss=2.5651, Patience=0/5
+  Epoch 15/200: G_loss=2.3939, F_loss=2.4956, Patience=0/5
+  Epoch 16/200: G_loss=2.4205, F_loss=2.5072, Patience=1/5
+  Epoch 17/200: G_loss=2.3817, F_loss=2.4717, Patience=0/5
+  Epoch 18/200: G_loss=2.4832, F_loss=2.5940, Patience=1/5
+  Epoch 19/200: G_loss=2.4635, F_loss=2.5850, Patience=2/5
+  Epoch 20/200: G_loss=2.2881, F_loss=2.3948, Patience=0/5
+  Epoch 21/200: G_loss=2.3945, F_loss=2.4929, Patience=1/5
+  Epoch 22/200: G_loss=2.3884, F_loss=2.5236, Patience=2/5
+  Epoch 23/200: G_loss=2.3466, F_loss=2.4416, Patience=3/5
+  Epoch 24/200: G_loss=2.3572, F_loss=2.4372, Patience=4/5
+  Epoch 25/200: G_loss=2.3713, F_loss=2.4013, Patience=5/5
+  EARLY STOPPING triggered at Epoch 25.
+
+
+Testing unet lr=0.00005, beta1=0.5
+  Epoch 1/200: G_loss=7.9181, F_loss=7.9112, Patience=0/5
+  Epoch 2/200: G_loss=4.8992, F_loss=4.8709, Patience=0/5
+  Epoch 3/200: G_loss=4.2406, F_loss=4.2076, Patience=0/5
+  Epoch 4/200: G_loss=4.0161, F_loss=3.9847, Patience=0/5
+  Epoch 5/200: G_loss=3.6433, F_loss=3.6353, Patience=0/5
+  Epoch 6/200: G_loss=3.5723, F_loss=3.5836, Patience=0/5
+  Epoch 7/200: G_loss=3.3704, F_loss=3.3968, Patience=0/5
+  Epoch 8/200: G_loss=3.2693, F_loss=3.2926, Patience=0/5
+  Epoch 9/200: G_loss=3.1838, F_loss=3.2167, Patience=0/5
+  Epoch 10/200: G_loss=3.0601, F_loss=3.0937, Patience=0/5
+  Epoch 11/200: G_loss=3.0423, F_loss=3.1218, Patience=1/5
+  Epoch 12/200: G_loss=2.9227, F_loss=2.9870, Patience=0/5
+  Epoch 13/200: G_loss=2.9152, F_loss=2.9761, Patience=0/5
+  Epoch 14/200: G_loss=2.8775, F_loss=2.9679, Patience=0/5
+  Epoch 15/200: G_loss=2.8272, F_loss=2.9460, Patience=0/5
+  Epoch 16/200: G_loss=2.7402, F_loss=2.8376, Patience=0/5
+  Epoch 17/200: G_loss=2.6991, F_loss=2.7924, Patience=0/5
+  Epoch 18/200: G_loss=2.7449, F_loss=2.8372, Patience=1/5
+  Epoch 19/200: G_loss=2.6812, F_loss=2.7863, Patience=0/5
+  Epoch 20/200: G_loss=2.6700, F_loss=2.7297, Patience=0/5
+  Epoch 21/200: G_loss=2.6210, F_loss=2.6958, Patience=0/5
+  Epoch 22/200: G_loss=2.5354, F_loss=2.6327, Patience=0/5
+  Epoch 23/200: G_loss=2.5568, F_loss=2.6206, Patience=1/5
+  Epoch 24/200: G_loss=2.5656, F_loss=2.6431, Patience=2/5
+  Epoch 25/200: G_loss=2.4726, F_loss=2.5533, Patience=0/5
+  Epoch 26/200: G_loss=2.5112, F_loss=2.5258, Patience=1/5
+  Epoch 27/200: G_loss=2.4741, F_loss=2.5424, Patience=2/5
+  Epoch 28/200: G_loss=2.4401, F_loss=2.5159, Patience=0/5
+  Epoch 29/200: G_loss=2.5060, F_loss=2.5256, Patience=1/5
+  Epoch 30/200: G_loss=2.4482, F_loss=2.4894, Patience=0/5
+  Epoch 31/200: G_loss=2.3891, F_loss=2.4494, Patience=0/5
+  Epoch 32/200: G_loss=2.4523, F_loss=2.4269, Patience=1/5
+  Epoch 33/200: G_loss=2.4158, F_loss=2.4705, Patience=2/5
+  Epoch 34/200: G_loss=2.3910, F_loss=2.4409, Patience=3/5
+  Epoch 35/200: G_loss=2.3630, F_loss=2.4023, Patience=0/5
+  Epoch 36/200: G_loss=2.3800, F_loss=2.4255, Patience=1/5
+  Epoch 37/200: G_loss=2.3294, F_loss=2.3488, Patience=0/5
+  Epoch 38/200: G_loss=2.3581, F_loss=2.3823, Patience=1/5
+  Epoch 39/200: G_loss=2.4562, F_loss=2.3955, Patience=2/5
+  Epoch 40/200: G_loss=2.3817, F_loss=2.4125, Patience=3/5
+  Epoch 41/200: G_loss=2.2970, F_loss=2.3244, Patience=0/5
+  Epoch 42/200: G_loss=2.2232, F_loss=2.2564, Patience=0/5
+  Epoch 43/200: G_loss=2.2305, F_loss=2.2574, Patience=1/5
+  Epoch 44/200: G_loss=2.2341, F_loss=2.2536, Patience=2/5
+  Epoch 45/200: G_loss=2.2402, F_loss=2.2358, Patience=3/5
+  Epoch 46/200: G_loss=2.1891, F_loss=2.1963, Patience=0/5
+  Epoch 47/200: G_loss=2.2285, F_loss=2.2084, Patience=1/5
+  Epoch 48/200: G_loss=2.1765, F_loss=2.1681, Patience=0/5
+  Epoch 49/200: G_loss=2.2824, F_loss=2.2500, Patience=1/5
+  Epoch 50/200: G_loss=2.2806, F_loss=2.2279, Patience=2/5
+  Epoch 51/200: G_loss=2.1561, F_loss=2.1221, Patience=0/5
+  Epoch 52/200: G_loss=2.1844, F_loss=2.1626, Patience=1/5
+  Epoch 53/200: G_loss=2.1463, F_loss=2.1316, Patience=2/5
+  Epoch 54/200: G_loss=2.1314, F_loss=2.1130, Patience=0/5
+  Epoch 55/200: G_loss=2.1717, F_loss=2.1193, Patience=1/5
+  Epoch 56/200: G_loss=2.1491, F_loss=2.1089, Patience=2/5
+  Epoch 57/200: G_loss=2.1466, F_loss=2.1143, Patience=3/5
+  Epoch 58/200: G_loss=2.1874, F_loss=2.1511, Patience=4/5
+  Epoch 59/200: G_loss=2.1236, F_loss=2.0816, Patience=0/5
+  Epoch 60/200: G_loss=2.1240, F_loss=2.0669, Patience=0/5
+  Epoch 61/200: G_loss=2.1086, F_loss=2.0405, Patience=0/5
+  Epoch 62/200: G_loss=2.1750, F_loss=2.1003, Patience=1/5
+  Epoch 63/200: G_loss=2.2228, F_loss=2.1321, Patience=2/5
+  Epoch 64/200: G_loss=2.1594, F_loss=2.0672, Patience=3/5
+  Epoch 65/200: G_loss=2.1386, F_loss=2.0500, Patience=4/5
+  Epoch 66/200: G_loss=2.1123, F_loss=2.0466, Patience=5/5
+  EARLY STOPPING triggered at Epoch 66.
+
