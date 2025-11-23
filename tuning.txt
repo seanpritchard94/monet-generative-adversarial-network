@@ -1,0 +1,294 @@
+
+Testing resnet lr=0.0001, beta1=0.5
+  Epoch 1/20: G_loss=10.5400, F_loss=10.5444, Patience=0/5
+  Epoch 2/20: G_loss=8.9865, F_loss=8.9466, Patience=0/5
+  Epoch 3/20: G_loss=8.6615, F_loss=8.5987, Patience=0/5
+  Epoch 4/20: G_loss=8.2346, F_loss=8.1710, Patience=0/5
+  Epoch 5/20: G_loss=7.6548, F_loss=7.6019, Patience=0/5
+  Epoch 6/20: G_loss=7.4661, F_loss=7.4267, Patience=0/5
+  Epoch 7/20: G_loss=7.2330, F_loss=7.2068, Patience=0/5
+  Epoch 8/20: G_loss=7.0595, F_loss=7.0285, Patience=0/5
+  Epoch 9/20: G_loss=7.0467, F_loss=7.0356, Patience=1/5
+  Epoch 10/20: G_loss=6.9689, F_loss=6.9644, Patience=0/5
+  Epoch 11/20: G_loss=6.9066, F_loss=6.8950, Patience=0/5
+  Epoch 12/20: G_loss=6.6869, F_loss=6.6905, Patience=0/5
+  Epoch 13/20: G_loss=6.6061, F_loss=6.5596, Patience=0/5
+  Epoch 14/20: G_loss=6.5243, F_loss=6.4765, Patience=0/5
+  Epoch 15/20: G_loss=6.5106, F_loss=6.4471, Patience=0/5
+  Epoch 16/20: G_loss=6.3154, F_loss=6.2449, Patience=0/5
+  Epoch 17/20: G_loss=6.2750, F_loss=6.2002, Patience=0/5
+  Epoch 18/20: G_loss=6.3336, F_loss=6.2178, Patience=1/5
+  Epoch 19/20: G_loss=6.2645, F_loss=6.1431, Patience=0/5
+  Epoch 20/20: G_loss=6.3035, F_loss=6.0756, Patience=0/5
+
+Testing unet lr=0.0001, beta1=0.5
+  Epoch 1/20: G_loss=5.7392, F_loss=5.7310, Patience=0/5
+  Epoch 2/20: G_loss=4.0421, F_loss=4.0158, Patience=0/5
+  Epoch 3/20: G_loss=3.6474, F_loss=3.6441, Patience=0/5
+  Epoch 4/20: G_loss=3.3948, F_loss=3.3970, Patience=0/5
+  Epoch 5/20: G_loss=3.1274, F_loss=3.1271, Patience=0/5
+  Epoch 6/20: G_loss=2.9327, F_loss=2.9364, Patience=0/5
+  Epoch 7/20: G_loss=2.8721, F_loss=2.9020, Patience=0/5
+  Epoch 8/20: G_loss=2.8000, F_loss=2.8784, Patience=0/5
+  Epoch 9/20: G_loss=2.6637, F_loss=2.7314, Patience=0/5
+  Epoch 10/20: G_loss=2.5712, F_loss=2.6471, Patience=0/5
+  Epoch 11/20: G_loss=2.4865, F_loss=2.5550, Patience=0/5
+  Epoch 12/20: G_loss=2.4305, F_loss=2.5270, Patience=0/5
+  Epoch 13/20: G_loss=2.4302, F_loss=2.5224, Patience=1/5
+  Epoch 14/20: G_loss=2.4187, F_loss=2.4928, Patience=0/5
+  Epoch 15/20: G_loss=2.3927, F_loss=2.4818, Patience=0/5
+  Epoch 16/20: G_loss=2.3924, F_loss=2.5002, Patience=1/5
+  Epoch 17/20: G_loss=2.3688, F_loss=2.4227, Patience=0/5
+  Epoch 18/20: G_loss=2.2909, F_loss=2.4149, Patience=0/5
+  Epoch 19/20: G_loss=2.3390, F_loss=2.4431, Patience=1/5
+  Epoch 20/20: G_loss=2.4160, F_loss=2.5059, Patience=2/5
+
+Testing resnet lr=0.0001, beta1=0.9
+  Epoch 1/20: G_loss=10.3186, F_loss=10.3554, Patience=0/5
+  Epoch 2/20: G_loss=9.3459, F_loss=9.3674, Patience=0/5
+  Epoch 3/20: G_loss=8.4577, F_loss=8.4074, Patience=0/5
+  Epoch 4/20: G_loss=8.2292, F_loss=8.1888, Patience=0/5
+  Epoch 5/20: G_loss=7.8428, F_loss=7.8227, Patience=0/5
+  Epoch 6/20: G_loss=7.5419, F_loss=7.5205, Patience=0/5
+  Epoch 7/20: G_loss=7.4084, F_loss=7.3966, Patience=0/5
+  Epoch 8/20: G_loss=7.4540, F_loss=7.4502, Patience=1/5
+  Epoch 9/20: G_loss=7.3979, F_loss=7.4087, Patience=2/5
+  Epoch 10/20: G_loss=7.1674, F_loss=7.1850, Patience=0/5
+  Epoch 11/20: G_loss=7.0176, F_loss=7.0387, Patience=0/5
+  Epoch 12/20: G_loss=6.6334, F_loss=6.6327, Patience=0/5
+  Epoch 13/20: G_loss=6.7053, F_loss=6.6987, Patience=1/5
+  Epoch 14/20: G_loss=6.4753, F_loss=6.4700, Patience=0/5
+  Epoch 15/20: G_loss=6.4390, F_loss=6.4205, Patience=0/5
+  Epoch 16/20: G_loss=6.4201, F_loss=6.4008, Patience=0/5
+  Epoch 17/20: G_loss=6.2945, F_loss=6.2417, Patience=0/5
+  Epoch 18/20: G_loss=6.4361, F_loss=6.4133, Patience=1/5
+  Epoch 19/20: G_loss=6.3640, F_loss=6.2920, Patience=2/5
+  Epoch 20/20: G_loss=6.1455, F_loss=6.0868, Patience=0/5
+
+Testing unet lr=0.0001, beta1=0.9
+  Epoch 1/20: G_loss=6.1568, F_loss=6.1275, Patience=0/5
+  Epoch 2/20: G_loss=4.1134, F_loss=4.0573, Patience=0/5
+  Epoch 3/20: G_loss=3.6417, F_loss=3.6104, Patience=0/5
+  Epoch 4/20: G_loss=3.3221, F_loss=3.2925, Patience=0/5
+  Epoch 5/20: G_loss=3.1284, F_loss=3.1105, Patience=0/5
+  Epoch 6/20: G_loss=3.0941, F_loss=3.0835, Patience=0/5
+  Epoch 7/20: G_loss=2.8985, F_loss=2.9195, Patience=0/5
+  Epoch 8/20: G_loss=2.9074, F_loss=2.9288, Patience=1/5
+  Epoch 9/20: G_loss=2.8075, F_loss=2.8458, Patience=0/5
+  Epoch 10/20: G_loss=2.5837, F_loss=2.6479, Patience=0/5
+  Epoch 11/20: G_loss=2.5228, F_loss=2.6130, Patience=0/5
+  Epoch 12/20: G_loss=2.6056, F_loss=2.7138, Patience=1/5
+  Epoch 13/20: G_loss=2.4716, F_loss=2.5806, Patience=0/5
+  Epoch 14/20: G_loss=2.5142, F_loss=2.6544, Patience=1/5
+  Epoch 15/20: G_loss=2.4034, F_loss=2.5995, Patience=0/5
+  Epoch 16/20: G_loss=2.3408, F_loss=2.4420, Patience=0/5
+  Epoch 17/20: G_loss=2.4036, F_loss=2.5389, Patience=1/5
+  Epoch 18/20: G_loss=2.3345, F_loss=2.5034, Patience=2/5
+  Epoch 19/20: G_loss=2.3057, F_loss=2.4325, Patience=0/5
+  Epoch 20/20: G_loss=2.2761, F_loss=2.4050, Patience=0/5
+
+Testing resnet lr=0.0002, beta1=0.5
+  Epoch 1/20: G_loss=11.5192, F_loss=11.5713, Patience=0/5
+  Epoch 2/20: G_loss=10.1382, F_loss=10.1570, Patience=0/5
+  Epoch 3/20: G_loss=9.8723, F_loss=9.8833, Patience=0/5
+  Epoch 4/20: G_loss=10.4449, F_loss=10.2986, Patience=1/5
+  Epoch 5/20: G_loss=9.7885, F_loss=9.7209, Patience=0/5
+  Epoch 6/20: G_loss=9.3799, F_loss=9.3677, Patience=0/5
+  Epoch 7/20: G_loss=10.1495, F_loss=10.0778, Patience=1/5
+  Epoch 8/20: G_loss=9.3123, F_loss=9.3043, Patience=0/5
+  Epoch 9/20: G_loss=9.0989, F_loss=9.1024, Patience=0/5
+  Epoch 10/20: G_loss=8.7847, F_loss=8.7344, Patience=0/5
+  Epoch 11/20: G_loss=8.5570, F_loss=8.4756, Patience=0/5
+  Epoch 12/20: G_loss=8.5847, F_loss=8.5329, Patience=1/5
+  Epoch 13/20: G_loss=8.6570, F_loss=8.5752, Patience=2/5
+  Epoch 14/20: G_loss=8.2534, F_loss=8.1929, Patience=0/5
+  Epoch 15/20: G_loss=8.1777, F_loss=8.0912, Patience=0/5
+  Epoch 16/20: G_loss=8.0832, F_loss=8.0066, Patience=0/5
+  Epoch 17/20: G_loss=7.9094, F_loss=7.8021, Patience=0/5
+  Epoch 18/20: G_loss=7.9935, F_loss=7.8806, Patience=1/5
+  Epoch 19/20: G_loss=7.9526, F_loss=7.7873, Patience=2/5
+  Epoch 20/20: G_loss=8.7466, F_loss=8.0070, Patience=3/5
+
+Testing unet lr=0.0002, beta1=0.5
+  Epoch 1/20: G_loss=5.3780, F_loss=5.3597, Patience=0/5
+  Epoch 2/20: G_loss=3.7727, F_loss=3.7679, Patience=0/5
+  Epoch 3/20: G_loss=3.2748, F_loss=3.2688, Patience=0/5
+  Epoch 4/20: G_loss=3.0944, F_loss=3.1167, Patience=0/5
+  Epoch 5/20: G_loss=2.9215, F_loss=2.9291, Patience=0/5
+  Epoch 6/20: G_loss=2.7404, F_loss=2.7395, Patience=0/5
+  Epoch 7/20: G_loss=2.6371, F_loss=2.6626, Patience=0/5
+  Epoch 8/20: G_loss=2.5552, F_loss=2.6086, Patience=0/5
+  Epoch 9/20: G_loss=2.5242, F_loss=2.5800, Patience=0/5
+  Epoch 10/20: G_loss=2.5713, F_loss=2.6368, Patience=1/5
+  Epoch 11/20: G_loss=2.3823, F_loss=2.4607, Patience=0/5
+  Epoch 12/20: G_loss=2.3591, F_loss=2.4158, Patience=0/5
+  Epoch 13/20: G_loss=2.3828, F_loss=2.4730, Patience=1/5
+  Epoch 14/20: G_loss=2.4178, F_loss=2.5107, Patience=2/5
+  Epoch 15/20: G_loss=2.3320, F_loss=2.4485, Patience=3/5
+  Epoch 16/20: G_loss=2.4401, F_loss=2.5131, Patience=4/5
+  Epoch 17/20: G_loss=2.3043, F_loss=2.4518, Patience=0/5
+  Epoch 18/20: G_loss=2.2722, F_loss=2.4270, Patience=0/5
+  Epoch 19/20: G_loss=2.3576, F_loss=2.4799, Patience=1/5
+  Epoch 20/20: G_loss=2.3706, F_loss=2.5382, Patience=2/5
+
+Testing resnet lr=0.0002, beta1=0.9
+  Epoch 1/20: G_loss=10.9720, F_loss=11.0427, Patience=0/5
+  Epoch 2/20: G_loss=10.4937, F_loss=10.5135, Patience=0/5
+  Epoch 3/20: G_loss=10.3278, F_loss=10.3130, Patience=0/5
+  Epoch 4/20: G_loss=9.6480, F_loss=9.6159, Patience=0/5
+  Epoch 5/20: G_loss=9.5180, F_loss=9.4885, Patience=0/5
+  Epoch 6/20: G_loss=9.6626, F_loss=9.6227, Patience=1/5
+  Epoch 7/20: G_loss=9.3543, F_loss=9.3362, Patience=0/5
+  Epoch 8/20: G_loss=8.9949, F_loss=9.0593, Patience=0/5
+  Epoch 9/20: G_loss=9.0664, F_loss=9.1233, Patience=1/5
+  Epoch 10/20: G_loss=8.8576, F_loss=8.8883, Patience=0/5
+  Epoch 11/20: G_loss=8.8806, F_loss=8.9177, Patience=1/5
+  Epoch 12/20: G_loss=8.6043, F_loss=8.6321, Patience=0/5
+  Epoch 13/20: G_loss=8.4945, F_loss=8.5478, Patience=0/5
+  Epoch 14/20: G_loss=8.3627, F_loss=8.4323, Patience=0/5
+  Epoch 15/20: G_loss=8.2921, F_loss=8.3345, Patience=0/5
+  Epoch 16/20: G_loss=8.5632, F_loss=8.4719, Patience=1/5
+  Epoch 17/20: G_loss=8.1985, F_loss=8.2246, Patience=0/5
+  Epoch 18/20: G_loss=8.2062, F_loss=8.2595, Patience=1/5
+  Epoch 19/20: G_loss=7.9212, F_loss=7.8779, Patience=0/5
+  Epoch 20/20: G_loss=8.1281, F_loss=8.1621, Patience=1/5
+
+Testing unet lr=0.0002, beta1=0.9
+  Epoch 1/20: G_loss=5.5030, F_loss=5.4725, Patience=0/5
+  Epoch 2/20: G_loss=3.8172, F_loss=3.7983, Patience=0/5
+  Epoch 3/20: G_loss=3.2537, F_loss=3.2226, Patience=0/5
+  Epoch 4/20: G_loss=3.0440, F_loss=3.0439, Patience=0/5
+  Epoch 5/20: G_loss=2.8077, F_loss=2.8028, Patience=0/5
+  Epoch 6/20: G_loss=2.7578, F_loss=2.7705, Patience=0/5
+  Epoch 7/20: G_loss=2.5504, F_loss=2.5954, Patience=0/5
+  Epoch 8/20: G_loss=2.4645, F_loss=2.4735, Patience=0/5
+  Epoch 9/20: G_loss=2.3767, F_loss=2.4069, Patience=0/5
+  Epoch 10/20: G_loss=2.2756, F_loss=2.3224, Patience=0/5
+  Epoch 11/20: G_loss=2.3560, F_loss=2.4347, Patience=1/5
+  Epoch 12/20: G_loss=2.3650, F_loss=2.4532, Patience=2/5
+  Epoch 13/20: G_loss=2.3297, F_loss=2.4550, Patience=3/5
+  Epoch 14/20: G_loss=2.2673, F_loss=2.3606, Patience=4/5
+  Epoch 15/20: G_loss=2.2630, F_loss=2.3965, Patience=5/5
+  EARLY STOPPING triggered at Epoch 15.
+
+Testing resnet lr=0.0005, beta1=0.5
+  Epoch 1/20: G_loss=12.9939, F_loss=13.0439, Patience=0/5
+  Epoch 2/20: G_loss=11.7338, F_loss=11.8023, Patience=0/5
+  Epoch 3/20: G_loss=11.0232, F_loss=11.1104, Patience=0/5
+  Epoch 4/20: G_loss=11.0171, F_loss=11.1062, Patience=0/5
+  Epoch 5/20: G_loss=10.7379, F_loss=10.8744, Patience=0/5
+  Epoch 6/20: G_loss=10.2559, F_loss=10.4463, Patience=0/5
+  Epoch 7/20: G_loss=10.2300, F_loss=10.5687, Patience=1/5
+  Epoch 8/20: G_loss=10.2102, F_loss=10.3395, Patience=0/5
+  Epoch 9/20: G_loss=9.6539, F_loss=9.7025, Patience=0/5
+  Epoch 10/20: G_loss=9.5077, F_loss=9.5189, Patience=0/5
+  Epoch 11/20: G_loss=9.4306, F_loss=9.4745, Patience=0/5
+  Epoch 12/20: G_loss=9.0274, F_loss=9.0879, Patience=0/5
+  Epoch 13/20: G_loss=9.3152, F_loss=9.3970, Patience=1/5
+  Epoch 14/20: G_loss=9.4371, F_loss=9.4960, Patience=2/5
+  Epoch 15/20: G_loss=9.2291, F_loss=9.2803, Patience=3/5
+  Epoch 16/20: G_loss=9.2620, F_loss=9.2534, Patience=4/5
+  Epoch 17/20: G_loss=8.9006, F_loss=8.9030, Patience=0/5
+  Epoch 18/20: G_loss=8.7945, F_loss=8.7877, Patience=0/5
+  Epoch 19/20: G_loss=8.9081, F_loss=8.8761, Patience=1/5
+  Epoch 20/20: G_loss=8.9754, F_loss=8.9727, Patience=2/5
+
+Testing unet lr=0.0005, beta1=0.5
+  Epoch 1/20: G_loss=4.7894, F_loss=4.7661, Patience=0/5
+  Epoch 2/20: G_loss=3.2871, F_loss=3.2698, Patience=0/5
+  Epoch 3/20: G_loss=2.7869, F_loss=2.7683, Patience=0/5
+  Epoch 4/20: G_loss=2.6849, F_loss=2.6863, Patience=0/5
+  Epoch 5/20: G_loss=2.4722, F_loss=2.4576, Patience=0/5
+  Epoch 6/20: G_loss=2.4900, F_loss=2.4959, Patience=1/5
+  Epoch 7/20: G_loss=2.4141, F_loss=2.4502, Patience=0/5
+  Epoch 8/20: G_loss=2.2989, F_loss=2.3286, Patience=0/5
+  Epoch 9/20: G_loss=2.2830, F_loss=2.3018, Patience=0/5
+  Epoch 10/20: G_loss=2.3980, F_loss=2.4123, Patience=1/5
+  Epoch 11/20: G_loss=2.4329, F_loss=2.4627, Patience=2/5
+  Epoch 12/20: G_loss=2.2859, F_loss=2.3292, Patience=3/5
+  Epoch 13/20: G_loss=2.2463, F_loss=2.3066, Patience=0/5
+  Epoch 14/20: G_loss=2.3204, F_loss=2.3678, Patience=1/5
+  Epoch 15/20: G_loss=2.3584, F_loss=2.3832, Patience=2/5
+  Epoch 16/20: G_loss=2.4252, F_loss=2.4826, Patience=3/5
+  Epoch 17/20: G_loss=2.4039, F_loss=2.4761, Patience=4/5
+  Epoch 18/20: G_loss=2.4512, F_loss=2.5139, Patience=5/5
+  EARLY STOPPING triggered at Epoch 18.
+
+Testing resnet lr=0.0005, beta1=0.9
+  Epoch 1/20: G_loss=13.8578, F_loss=14.0741, Patience=0/5
+  Epoch 2/20: G_loss=15.3968, F_loss=15.2969, Patience=1/5
+  Epoch 3/20: G_loss=16.3362, F_loss=17.1090, Patience=2/5
+  Epoch 4/20: G_loss=15.0040, F_loss=15.2571, Patience=3/5
+  Epoch 5/20: G_loss=13.9722, F_loss=14.2637, Patience=4/5
+  Epoch 6/20: G_loss=13.2001, F_loss=13.0443, Patience=0/5
+  Epoch 7/20: G_loss=19.1478, F_loss=17.7470, Patience=1/5
+  Epoch 8/20: G_loss=25.4717, F_loss=21.2526, Patience=2/5
+  Epoch 9/20: G_loss=23.5618, F_loss=21.9947, Patience=3/5
+  Epoch 10/20: G_loss=23.3456, F_loss=22.3885, Patience=4/5
+  Epoch 11/20: G_loss=24.2000, F_loss=23.1633, Patience=5/5
+  EARLY STOPPING triggered at Epoch 11.
+
+Testing unet lr=0.0005, beta1=0.9
+  Epoch 1/20: G_loss=4.8522, F_loss=4.8369, Patience=0/5
+  Epoch 2/20: G_loss=3.5990, F_loss=3.5691, Patience=0/5
+  Epoch 3/20: G_loss=3.1037, F_loss=3.1213, Patience=0/5
+  Epoch 4/20: G_loss=2.9403, F_loss=2.9538, Patience=0/5
+  Epoch 5/20: G_loss=2.7916, F_loss=2.8236, Patience=0/5
+  Epoch 6/20: G_loss=2.6886, F_loss=2.7151, Patience=0/5
+  Epoch 7/20: G_loss=2.6076, F_loss=2.5843, Patience=0/5
+  Epoch 8/20: G_loss=2.4903, F_loss=2.5019, Patience=0/5
+  Epoch 9/20: G_loss=2.4314, F_loss=2.4347, Patience=0/5
+  Epoch 10/20: G_loss=2.5196, F_loss=2.5165, Patience=1/5
+  Epoch 11/20: G_loss=2.4383, F_loss=2.4311, Patience=2/5
+  Epoch 12/20: G_loss=2.4124, F_loss=2.4087, Patience=0/5
+  Epoch 13/20: G_loss=2.4059, F_loss=2.4098, Patience=1/5
+  Epoch 14/20: G_loss=2.4085, F_loss=2.4345, Patience=2/5
+  Epoch 15/20: G_loss=2.3676, F_loss=2.4126, Patience=0/5
+  Epoch 16/20: G_loss=2.4481, F_loss=2.5080, Patience=1/5
+  Epoch 17/20: G_loss=2.3979, F_loss=2.4268, Patience=2/5
+  Epoch 18/20: G_loss=2.3749, F_loss=2.4229, Patience=3/5
+  Epoch 19/20: G_loss=2.4379, F_loss=2.5113, Patience=4/5
+  Epoch 20/20: G_loss=2.3529, F_loss=2.4611, Patience=5/5
+  EARLY STOPPING triggered at Epoch 20.
+
+Hyperparameter tuning complete!
+
+
+checkpoint_1
+
+Testing unet lr=0.0001, beta1=0.5
+  Epoch 1/200: G_loss=5.9617, F_loss=5.9567, Patience=0/5
+  Epoch 2/200: G_loss=4.1086, F_loss=4.0903, Patience=0/5
+  Epoch 3/200: G_loss=3.5780, F_loss=3.5670, Patience=0/5
+  Epoch 4/200: G_loss=3.3322, F_loss=3.3250, Patience=0/5
+  Epoch 5/200: G_loss=3.2348, F_loss=3.2528, Patience=0/5
+  Epoch 6/200: G_loss=3.0082, F_loss=3.0182, Patience=0/5
+  Epoch 7/200: G_loss=2.8562, F_loss=2.8863, Patience=0/5
+  Epoch 8/200: G_loss=2.8377, F_loss=2.9251, Patience=1/5
+  Epoch 9/200: G_loss=2.8102, F_loss=2.9040, Patience=0/5
+  Epoch 10/200: G_loss=2.7166, F_loss=2.8023, Patience=0/5
+  Epoch 11/200: G_loss=2.6148, F_loss=2.7084, Patience=0/5
+  Epoch 12/200: G_loss=2.5564, F_loss=2.6449, Patience=0/5
+  Epoch 13/200: G_loss=2.5904, F_loss=2.7014, Patience=1/5
+  Epoch 14/200: G_loss=2.5329, F_loss=2.5651, Patience=0/5
+  Epoch 15/200: G_loss=2.3939, F_loss=2.4956, Patience=0/5
+  Epoch 16/200: G_loss=2.4205, F_loss=2.5072, Patience=1/5
+  Epoch 17/200: G_loss=2.3817, F_loss=2.4717, Patience=0/5
+  Epoch 18/200: G_loss=2.4832, F_loss=2.5940, Patience=1/5
+  Epoch 19/200: G_loss=2.4635, F_loss=2.5850, Patience=2/5
+  Epoch 20/200: G_loss=2.2881, F_loss=2.3948, Patience=0/5
+  Epoch 21/200: G_loss=2.3945, F_loss=2.4929, Patience=1/5
+  Epoch 22/200: G_loss=2.3884, F_loss=2.5236, Patience=2/5
+  Epoch 23/200: G_loss=2.3466, F_loss=2.4416, Patience=3/5
+  Epoch 24/200: G_loss=2.3572, F_loss=2.4372, Patience=4/5
+  Epoch 25/200: G_loss=2.3713, F_loss=2.4013, Patience=5/5
+  EARLY STOPPING triggered at Epoch 25.
+
+Hyperparameter tuning complete!
+  gen_name      lr  beta1  best_G_loss  best_F_loss  best_DY_loss  \
+0     unet  0.0001    0.5     2.288125     2.394816      1.295265
+
+   best_DX_loss                                     checkpoint_dir
+0      1.194603  /content/drive/My Drive/data/GAN/checkpoints/g...
+
+Check 'checkpoints/' directory for saved model weights and sample images
